@@ -1,0 +1,142 @@
+[
+  {
+    "#": 1,
+    "Título": "The Legend of Zelda",
+    "Publicado": 1986,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Famicom Disk System; Famicom/NES"
+  },
+  {
+    "#": 2,
+    "Título": "Zelda II: The Adventure of Link",
+    "Publicado": 1987,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Famicom Disk System; Famicom/NES"
+  },
+  {
+    "#": 3,
+    "Título": "The Legend of Zelda: A Link to the Past",
+    "Publicado": 1991,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Super Famicom/Super NES"
+  },
+  {
+    "#": 4,
+    "Título": "The Legend of Zelda: Link's Awakening",
+    "Publicado": 1993,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Game Boy"
+  },
+  {
+    "#": 5,
+    "Título": "The Legend of Zelda: Ocarina of Time",
+    "Publicado": 1998,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Nintendo 64"
+  },
+  {
+    "#": 6,
+    "Título": "The Legend of Zelda: Majora's Mask",
+    "Publicado": 2000,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Nintendo 65"
+  },
+  {
+    "#": 7,
+    "Título": "The Legend of Zelda: Oracle of Seasons & Oracle of Ages",
+    "Publicado": 2001,
+    "Desarrollador": "Nintendo EAD; Capcom; Flagship",
+    "Sistema": "Game Boy Color"
+  },
+  {
+    "#": 8,
+    "Título": "The Legend of Zelda: Four Swords",
+    "Publicado": 2002,
+    "Desarrollador": "Nintendo EAD; Capcom; Flagship",
+    "Sistema": "Game Boy Advance"
+  },
+  {
+    "#": 9,
+    "Título": "The Legend of Zelda: The Wind Waker",
+    "Publicado": "",
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Nintendo GameCube"
+  },
+  {
+    "#": 10,
+    "Título": "The Legend of Zelda: Four Swords Adventures",
+    "Publicado": 2004,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Nintendo GameCube"
+  },
+  {
+    "#": 11,
+    "Título": "The Legend of Zelda: The Minish Cap",
+    "Publicado": "",
+    "Desarrollador": "Nintendo EAD; Capcom; Flagship",
+    "Sistema": "Game Boy Advance"
+  },
+  {
+    "#": 12,
+    "Título": "The Legend of Zelda: Twilight Princess",
+    "Publicado": 2006,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Nintendo GameCube; Wii"
+  },
+  {
+    "#": 13,
+    "Título": "The Legend of Zelda: Phantom Hourglass",
+    "Publicado": 2007,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Nintendo DS"
+  },
+  {
+    "#": 14,
+    "Título": "The Legend of Zelda: Spirit Tracks",
+    "Publicado": 2009,
+    "Desarrollador": "Nintendo EAD",
+    "Sistema": "Nintendo DS"
+  },
+  {
+    "#": 15,
+    "Título": "The Legend of Zelda: Skyward Sword",
+    "Publicado": 2011,
+    "Desarrollador": "Nintendo EAD; Monolith Soft.",
+    "Sistema": "Wii"
+  },
+  {
+    "#": 16,
+    "Título": "The Legend of Zelda: A Link Between Worlds",
+    "Publicado": 2013,
+    "Desarrollador": "Nintendo EAD; Monolith Soft.",
+    "Sistema": "Nintendo 3DS"
+  },
+  {
+    "#": 17,
+    "Título": "The Legend of Zelda: Tri Force Heroes",
+    "Publicado": 2015,
+    "Desarrollador": "Nintendo EPD; Grezzo; 1-UP Studio, Inc.",
+    "Sistema": "Nintendo 3DS"
+  },
+  {
+    "#": 18,
+    "Título": "The Legend of Zelda: Breath of the Wild",
+    "Publicado": 2017,
+    "Desarrollador": "Nintendo EPD; Monolith Soft.",
+    "Sistema": "Wii U; Nintendo Switch"
+  },
+  {
+    "#": 19,
+    "Título": "The Legend of Zelda: Tears of the Kingdom",
+    "Publicado": 2023,
+    "Desarrollador": "Nintendo EPD; Monolith Soft.",
+    "Sistema": "Nintendo Switch"
+  },
+  {
+    "#": 20,
+    "Título": "The Legend of Zelda: Echoes of Wisdom",
+    "Publicado": 2024,
+    "Desarrollador": "Nintendo EPD; Grezzo",
+    "Sistema": "Nintendo Switch"
+  }
+]
