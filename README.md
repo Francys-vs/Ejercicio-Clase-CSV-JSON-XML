@@ -1,6 +1,6 @@
 # Ejercicio-Clase-CSV-JSON-XML  
 
-* Tabla Excel: datos sobre el orden cronológico de los juegos de la saga principal de The Legend of Zelda.
+* Tabla Excel: datos sobre el orden cronológico de los juegos de la saga principal de The Legend of Zelda <https://es.wikipedia.org/wiki/Anexo:Videojuegos_de_The_Legend_of_Zelda_por_g%C3%A9nero>
 
 * Datos Excel:
 ```JavaScript
