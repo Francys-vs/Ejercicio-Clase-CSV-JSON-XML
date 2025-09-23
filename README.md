@@ -279,3 +279,4 @@
  </root>
 ```
 
+* Fotos jugadores: ![alexis](https://github.com/user-attachments/assets/7a7e7037-7bce-4ff2-8a7c-020300c64061) ![vargas](https://github.com/user-attachments/assets/07777c4a-cb67-463a-892a-f085954bd3fe) ![marcelosalas](https://github.com/user-attachments/assets/074cd5da-4387-4f28-9cff-644d43eca49f)
