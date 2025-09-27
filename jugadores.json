@@ -28,5 +28,42 @@
     "goles": 34,
     "partidos": 144,
     "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg"
-  }
+  },
+  {
+    "chileno": "Carlos Caszely",
+    "goles": 29,
+    "partidos": 49,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg",
+    "estado": "retirado, 1969-1985"
+  },
+  {
+    "chileno": "Leonel Sánchez",
+    "goles": 24,
+    "partidos": 85,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg",
+    "estado": "retirado, 1956-1968"  
+  },
+  {
+    "chileno": "Jorge Aravena",
+    "goles": 22,
+    "partidos": 37,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg",
+    "estado": "retirado, 1983-1990"
+  },
+  {
+    "chileno": "Humberto Suazo",
+    "goles": 21,
+    "partidos": 60,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg",
+    "estado": "activo"
+  
+  },
+  {
+    "chileno": "Juan Carlos Letelier",
+    "goles": 18,
+    "partidos": 57,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg",
+    "estado": "retirado, 1979-1989"
+  
+  },
 ]
