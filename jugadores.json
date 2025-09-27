@@ -3,30 +3,30 @@
     "chileno": "Alexis Sánchez",
     "goles": 51,
     "partidos": 166,
-    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/alexis.jpg",
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/alexis.jpg"
   },
   {
     "chileno": "Eduardo Vargas",
     "goles": 45,
     "partidos": 119,
-    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vargas.jpg",
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vargas.jpg"
   },
   {
     "chileno": "Marcelo Salas",
     "goles": 37,
     "partidos": 70,
-    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/marcelosalas.jpg",
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/marcelosalas.jpg"
   },
   {
     "chileno": "Iván Zamorano",
     "goles": 34,
     "partidos": 69,
-    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/zamorano.jpg",
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/zamorano.jpg"
   },
   {
     "chileno": "Arturo Vidal",
     "goles": 34,
     "partidos": 144,
-    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg",
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg"
   }
 ]
